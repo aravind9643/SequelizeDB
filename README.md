@@ -1,2 +1,0 @@
-# SequelizeDB
-Created with CodeSandbox
